@@ -1,0 +1,12 @@
+{
+    "last_path": "/storage/emulated/0/",
+    "default_output_path": "out",
+    "default_resolution": 2160,
+    "sharpen_factor": 1.8,
+    "smooth_factor": 1.3,
+    "enhance_color_factor": 1.2,
+    "enhance_contrast_factor": 1.15,
+    "web_max_size_kb": 234,
+    "web_quality": 98,
+    "reduce_max_resolution": 3184
+}
